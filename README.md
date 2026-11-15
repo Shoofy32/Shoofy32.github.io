@@ -11,17 +11,18 @@ I am Stefan Domingo, a Computer Science student in De La Salle University curren
 ## Here's a list of my relevant projects  
 ### [Blevvit (Forum site)](https://blevvit.onrender.com/)  
 Blevvit was a project for my Web Application Development class CCAPDEV, it's a typical forum website I co-developed with 2 other people. My part in the project included user login and session management, creation of user profiles, integrating the back end into MongoDB, and management/deployment of the website.  
-!(Blevvit1.png)!(Blevvit2.png) 
+![](./Blevvit1.png)![](./Blevvit2.png) 
 
 ### [Unity Projects](https://github.com/Shoofy32/GAMEDEV_S01-DOMINGO)
-This is a collection of several small scale Unity projects I created for my GAMEDEV elective.
+This is a collection of several small scale Unity projects I created for my GAMEDEV elective.  
 
 ### [OLAP Application](https://drive.google.com/drive/folders/1KQpbSxg8822Mz3Yrccz-kip-Kyo4ziMS?usp=sharing)
-
-!(PowerBI1.png)
+This is an OLAP based application made using PowerBI, I was responsible for designing the layout of the dashboard, creating the test scripts for each query, designing the database schema, and running/verifying the results of each query.
+![](./PowerBI1.png)
 
 ### [Data Analysis Notebook](https://github.com/Shoofy32/CSMODEL)
+This is a data analysis notebook exploring the possible relation between competitive games and decision making, I was responsible for the data preprocessing, exploratory data analysis, and the statistical testing.
 
 ### [Warrior (Java Game)](https://github.com/Shoofy32/MCO-Warrior)  
 "Warrior" is a Java-based game I co-developed with another student for our Intro to OOP class. It's a turn based combat game featuring the typical mechanics of multiple actions, consumables, effects, and multiple enemies. 
-!(Warrior1.png)!(Warrior2.png)
+![](./Warrior1.png)![](./Warrior2.png)
